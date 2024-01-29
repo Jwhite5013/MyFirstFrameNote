@@ -11,7 +11,7 @@ public class Main {
         panel.setBackground(new Color(125,130,40));
         //3. Create Components
         JLabel label = new JLabel("Hello Seaver");
-        JButton button = new JButton("Push me!");
+        JButton button = new JButton("Push you!");
         JTextField textField = new JTextField(5);
         //add Image
         ImageIcon icon = new ImageIcon("Images/myCards/2C.png");
