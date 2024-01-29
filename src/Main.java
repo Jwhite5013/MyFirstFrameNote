@@ -10,7 +10,7 @@ public class Main {
         JPanel panel = new JPanel();
         panel.setBackground(new Color(125,130,40));
         //3. Create Components
-        JLabel label = new JLabel("Hello World");
+        JLabel label = new JLabel("Hello Seaver");
         JButton button = new JButton("Push me!");
         JTextField textField = new JTextField(5);
         //add Image
