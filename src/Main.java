@@ -19,7 +19,7 @@ public class Main {
         icon.setImage(icon.getImage().getScaledInstance(50,75,Image.SCALE_DEFAULT));
         //Creating a label with an icon on it
         JLabel picLabel = new JLabel(icon);
-        //Creating a progress bar
+        //Creating a progress bar ha
         JProgressBar progressBar = new JProgressBar(0,1000);
         //Putting stuff on progress bar
         progressBar.setValue(500);
